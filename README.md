@@ -1,6 +1,7 @@
 # My Projects
 ## Feline Feeder
 <!-- embed: feeder designs.pdf -->
+<p><img src="./docs & images/feeder designs.pdf" width="500" /></p>
 Placeholder description for feeder design files.
 
 <!-- embed: feeder CAD.jpg -->
