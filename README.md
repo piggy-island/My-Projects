@@ -17,12 +17,12 @@ Placeholder description for exploded feeder view.
 <p><img src="./docs & images/feeder inside.jpg" width="500" /></p>
 Placeholder description for internal feeder components.
 
-<!-- embed: feeder funnel design.jpg -->
-<p><img src="./docs & images/feeder funnel design.jpg" width="500" /></p>
+<!-- embed: feeder funnel designs.jpg -->
+<p><img src="./docs & images/feeder funnel designs.jpg" width="500" /></p>
 Placeholder description for funnel geometry and optimization.
 
 <!-- embed: feline feeder demo.mp4 -->
-<p><video src="./docs & images/feline feeder demo.mp4" width="500" controls></video></p>
+<p><video src="./videos/feline feeder demo.mp4" width="500" controls></video></p>
 Placeholder description for feeder demonstration media.
 
 
@@ -32,7 +32,7 @@ Placeholder description for feeder demonstration media.
 Placeholder description for air trajectory modeling and design.
 
 <!-- embed: air trajectory video.mp4 -->
-<p><video src="./docs & images/air trajectory video.mp4" width="500" controls></video></p>
+<p><video src="./videos/air trajectory video.mp4" width="500" controls></video></p>
 Placeholder description for trajectory demonstration video.
 
 
